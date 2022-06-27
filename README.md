@@ -1,1 +1,1 @@
-# MLModels
+THe model is trained using  a Support Vector machine . A dataset consisting of 768 rows and 8 columns with various labels like Pregnancies , Glucose level  are contained which influence in deciding whether a person is diagnosed with Diabetes or not. The dataset is split into 20% Testing data and 80% Training data. The Outcome label , when printing 0 conveys tht the person does not have Diabetes and when printing 1 , The person has Diabetes.
